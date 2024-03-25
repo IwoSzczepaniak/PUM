@@ -1,0 +1,8 @@
+/.venv
+/lab2/abo-images-small*
+/*/*.txt
+/*/*.parquet
+/*/*.joblib
+/*/*.csv
+/*/*.pdf
+/*/*.html
